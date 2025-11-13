@@ -1,0 +1,7 @@
+node_modules/
+client/.next/
+server/node_modules/
+server/uploads/
+.env
+.env.local
+.DS_Store
